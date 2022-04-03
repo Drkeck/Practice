@@ -20,9 +20,18 @@ namespace Mi_IncomeTaxCalc
     /// </summary>
     public partial class MainWindow : Window
     {
+        #region Constructor
         public MainWindow()
         {
             InitializeComponent();
+        }
+        #endregion
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            var text = (TextBox)sender;
+            string[] inputText = text.ToString().Split(' ');
+            testInput.Text = inputText[1];
         }
     }
 }
