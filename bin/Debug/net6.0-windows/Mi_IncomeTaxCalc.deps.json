@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Mi_IncomeTaxCalc/1.0.0": {
+        "runtime": {
+          "Mi_IncomeTaxCalc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mi_IncomeTaxCalc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
