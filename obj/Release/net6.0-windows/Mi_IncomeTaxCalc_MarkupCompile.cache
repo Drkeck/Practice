@@ -1,20 +1,20 @@
 ﻿Mi_IncomeTaxCalc
-1.0.0.0
+
 
 winexe
 C#
 .cs
-C:\Code\C# practice\Practice\obj\Debug\net6.0-windows\
+C:\Code\C# practice\Practice\obj\Release\net6.0-windows\
 Mi_IncomeTaxCalc
 none
 false
-TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
 C:\Code\C# practice\Practice\App.xaml
 11407045341
 
-5-1746142129
+3-1233169557
 1941645785384
 MainWindow.xaml;
 
-False
+True
 

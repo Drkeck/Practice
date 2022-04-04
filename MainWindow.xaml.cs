@@ -30,8 +30,15 @@ namespace Mi_IncomeTaxCalc
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
         {
             var text = (TextBox)sender;
-            string[] inputText = text.ToString().Split(' ');
-            testInput.Text = inputText[1];
+            string[] inputText = text.ToString().Split(':');
+            if (inputText.Length > 1)
+            {
+                testInput.Text = inputText[1];
+            }
+            else
+            {
+                testInput.Text = "";
+            }
         }
     }
 }

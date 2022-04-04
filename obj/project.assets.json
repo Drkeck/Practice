@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\keckley\\.nuget\\packages\\": {}
+    "C:\\Users\\Alex Keckley\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Users\\Keckleon\\Desktop\\coding\\MY WORK\\C# practice\\Mi_IncomeTaxCalc\\Mi_IncomeTaxCalc.csproj",
+      "projectUniqueName": "C:\\Code\\C# practice\\Practice\\Mi_IncomeTaxCalc.csproj",
       "projectName": "Mi_IncomeTaxCalc",
-      "projectPath": "G:\\Users\\Keckleon\\Desktop\\coding\\MY WORK\\C# practice\\Mi_IncomeTaxCalc\\Mi_IncomeTaxCalc.csproj",
-      "packagesPath": "C:\\Users\\keckley\\.nuget\\packages\\",
-      "outputPath": "G:\\Users\\Keckleon\\Desktop\\coding\\MY WORK\\C# practice\\Mi_IncomeTaxCalc\\obj\\",
+      "projectPath": "C:\\Code\\C# practice\\Practice\\Mi_IncomeTaxCalc.csproj",
+      "packagesPath": "C:\\Users\\Alex Keckley\\.nuget\\packages\\",
+      "outputPath": "C:\\Code\\C# practice\\Practice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\keckley\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Alex Keckley\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
