@@ -13,6 +13,7 @@
         <RadioButton Content="monthly" HorizontalAlignment="Left" Margin="10,97,0,0" VerticalAlignment="Top"/>
         <RadioButton Content="yearly" HorizontalAlignment="Left" Margin="10,117,0,0" VerticalAlignment="Top"/>
         <TextBlock x:Name="testInput" HorizontalAlignment="Left" Margin="135,55,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+        <TextBlock x:Name="testInput2" HorizontalAlignment="Left" Margin="135,76,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>

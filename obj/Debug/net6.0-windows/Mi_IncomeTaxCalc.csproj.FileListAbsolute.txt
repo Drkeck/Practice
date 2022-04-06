@@ -19,3 +19,24 @@ G:\Users\Keckleon\Desktop\coding\MY WORK\C# practice\Mi_IncomeTaxCalc\obj\Debug\
 G:\Users\Keckleon\Desktop\coding\MY WORK\C# practice\Mi_IncomeTaxCalc\obj\Debug\net6.0-windows\Mi_IncomeTaxCalc.pdb
 G:\Users\Keckleon\Desktop\coding\MY WORK\C# practice\Mi_IncomeTaxCalc\obj\Debug\net6.0-windows\Mi_IncomeTaxCalc.genruntimeconfig.cache
 G:\Users\Keckleon\Desktop\coding\MY WORK\C# practice\Mi_IncomeTaxCalc\obj\Debug\net6.0-windows\ref\Mi_IncomeTaxCalc.dll
+C:\Code\C# practice\Practice\bin\Debug\net6.0-windows\Mi_IncomeTaxCalc.exe
+C:\Code\C# practice\Practice\bin\Debug\net6.0-windows\Mi_IncomeTaxCalc.deps.json
+C:\Code\C# practice\Practice\bin\Debug\net6.0-windows\Mi_IncomeTaxCalc.runtimeconfig.json
+C:\Code\C# practice\Practice\bin\Debug\net6.0-windows\Mi_IncomeTaxCalc.dll
+C:\Code\C# practice\Practice\bin\Debug\net6.0-windows\Mi_IncomeTaxCalc.pdb
+C:\Code\C# practice\Practice\obj\Debug\net6.0-windows\Mi_IncomeTaxCalc.csproj.AssemblyReference.cache
+C:\Code\C# practice\Practice\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Code\C# practice\Practice\obj\Debug\net6.0-windows\App.g.cs
+C:\Code\C# practice\Practice\obj\Debug\net6.0-windows\Mi_IncomeTaxCalc_MarkupCompile.cache
+C:\Code\C# practice\Practice\obj\Debug\net6.0-windows\Mi_IncomeTaxCalc_MarkupCompile.lref
+C:\Code\C# practice\Practice\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Code\C# practice\Practice\obj\Debug\net6.0-windows\Mi_IncomeTaxCalc.g.resources
+C:\Code\C# practice\Practice\obj\Debug\net6.0-windows\Mi_IncomeTaxCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C# practice\Practice\obj\Debug\net6.0-windows\Mi_IncomeTaxCalc.AssemblyInfoInputs.cache
+C:\Code\C# practice\Practice\obj\Debug\net6.0-windows\Mi_IncomeTaxCalc.AssemblyInfo.cs
+C:\Code\C# practice\Practice\obj\Debug\net6.0-windows\Mi_IncomeTaxCalc.csproj.CoreCompileInputs.cache
+C:\Code\C# practice\Practice\obj\Debug\net6.0-windows\Mi_IncomeTaxCalc.dll
+C:\Code\C# practice\Practice\obj\Debug\net6.0-windows\refint\Mi_IncomeTaxCalc.dll
+C:\Code\C# practice\Practice\obj\Debug\net6.0-windows\Mi_IncomeTaxCalc.pdb
+C:\Code\C# practice\Practice\obj\Debug\net6.0-windows\Mi_IncomeTaxCalc.genruntimeconfig.cache
+C:\Code\C# practice\Practice\obj\Debug\net6.0-windows\ref\Mi_IncomeTaxCalc.dll
